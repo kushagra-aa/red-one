@@ -1,4 +1,7 @@
 # Red One
+
+![logo]('./images/icon.png')
+
 ## It is "Red" Color Based Theme For Visual Studio Code
 
 This theme I've made during learning how to make themes for VSCode

@@ -3,6 +3,7 @@
   "displayName": "Red One",
   "description": "A Red based Theme for Visual Studio Code",
   "publisher": "kushagra-aa",
+  "icon": "images/icon.png",
   "version": "0.0.1",
   "repository": {
     "type": "git",
