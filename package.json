@@ -1,21 +1,34 @@
 {
-    "name": "red-one",
-    "displayName": "Red One",
-    "description": "",
-    "version": "0.0.1",
-    "engines": {
-        "vscode": "^1.67.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Red One",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Red One-color-theme.json"
-            }
-        ]
-    }
+  "name": "red-one",
+  "displayName": "Red One",
+  "description": "A Red based Theme for Visual Studio Code",
+  "publisher": "kushagra-aa",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kushagra-aa/red-one"
+  },
+  "keywords": [
+    "Themes",
+    "Visual Studio Code",
+    "Red One",
+    "Red",
+    "Dark",
+    "Color"
+  ],
+  "engines": {
+    "vscode": "^1.67.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Red One",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Red One-color-theme.json"
+      }
+    ]
+  }
 }
