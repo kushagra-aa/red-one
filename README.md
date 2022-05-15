@@ -1,13 +1,36 @@
-# README
-## This is the README for your extension "red-one"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Red One
+## It is "Red" Color Based Theme For Visual Studio Code
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+This theme I've made during learning how to make themes for VSCode
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Theme Screenshots
 
-**Enjoy!**
+![image](https://user-images.githubusercontent.com/68841296/168476833-427f117f-7f19-403c-84d5-7a1866b34d06.png)
+![image](https://user-images.githubusercontent.com/68841296/168476838-266e52c4-30b1-4c44-9dfb-ae2467ffeddf.png)
+![image](https://user-images.githubusercontent.com/68841296/168476886-cec582b4-d0b8-4afb-810e-af5315688c0a.png)
+
+## Set This Theme
+
+1 - After Installing the theme,Open Command Pallet(`Ctrl + Shift + P`)
+
+2 - Search for 'Preferences: Color Theme'
+> `Keyboard Shortcut : Ctrl + K Ctrl + T`
+
+3 - Search for 'Red One' and select the theme
+
+---
+
+## Repository & Feedback
+
+Please report issues related to this theme on the repository page.
+
+[GitHub Repository](https://github.com/kushagra-aa/red-one)
+
+## Developer Information
+
+Kushagra Agnihotri
+
+Please Visit [Here](https://github.com/kushagra-aa/) for additional information
+
+---
+Copyright © `Kushagra-AA`
