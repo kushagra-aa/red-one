@@ -1,6 +1,6 @@
 # Red One
 
-![logo]('./images/icon.png')
+![logo](./images/icon.png)
 
 ## It is "Red" Color Based Theme For Visual Studio Code
 
